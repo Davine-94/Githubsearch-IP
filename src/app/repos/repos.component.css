@@ -9,15 +9,15 @@
     padding: 80px 80px;
     width: 90vh;
     background: url(../../assets/img/github.jpg) no-repeat;
-    background-size: 70% 80%;
+    background-size: cover;
     background-position: center right;
-    border: 1px solid rgba(110, 255, 255, 0.904);
+    border: 1px solid rgba(255, 110, 129, 0.904);
     box-shadow: 4px 4px 4px rgba(255, 133, 110, 0.25);
     border-radius: 10px;
 }
 
 .card p {
-    color: #6bc4ee;
+    color: #ee6b87;
 }
 
 .logo {
@@ -25,7 +25,7 @@
 }
 
 .gradient-text{
-    background: linear-gradient(90deg, #EEA06B 0%, #FFD973 100%);
+    background: linear-gradient(90deg, #ac5d29 0%, #2c2309 100%);
     background-size: 100%;
     background-clip: text;
     color: transparent;
