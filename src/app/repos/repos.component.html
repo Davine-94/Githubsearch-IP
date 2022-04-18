@@ -1,12 +1,12 @@
 <div class="main">
   <div class="logo">
     <p id="heading" class="gradient-text" >Github Search</p> <br>
-    <p id="sub-heading" class="gradient-text">Find any Github Repo in two easy steps!</p>
+    <p id="sub-heading" class="gradient-text">Repository Search</p>
   </div>
-  <p id="sub-heading" class="gradient-text">Start typing below to get results</p>
+  <p id="sub-heading" class="gradient-text">Enter Github Username</p>
   <form>
     <div class="mb-3">
-      <input type="email" class="form-control" placeholder="Search by Repo" [(ngModel)] = "repoName" name="repoName" (keyup)='searchRepo()' autocomplete="off">
+      <input type="email" class="form-control" placeholder="Search by Repository" [(ngModel)] = "repoName" name="repoName" (keyup)='searchRepo()' autocomplete="off">
     </div>
     <div class="list"></div>
     <ul>
