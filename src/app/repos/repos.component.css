@@ -55,9 +55,9 @@ input {
     margin: 20px 0;
     border: none;
     background-color: transparent;
-    border-bottom: 1px solid #EEA06B;
+    border-bottom: 1px solid #9c4b15;
     padding: 10px 500px 10px 10px;
-    color: #EEA06B;
+    color: #b3591e;
     font-weight: 300;
     font-size: 18px;
     outline: none;
@@ -68,21 +68,21 @@ input::placeholder{
     background-color: transparent;
     font-weight: 300;
     font-size: 18px;
-    color: #EEA06B;
+    color: #804117;
 }
 
 p {
-    color: #EEA06B;
+    color: #a0531f;
 }
 
 ul {
-    color: #EEA06B;
+    color: #924715;
     text-decoration: none;
     list-style-type: none;
 }
 
 a {
-    color: #EEA06B;
+    color: #883e0d;
     text-decoration: none;
 }
 
